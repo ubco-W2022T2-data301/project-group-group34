@@ -1,4 +1,4 @@
-# Group YY - {Short snappy Title of your project}
+# Group 34 - {Short snappy Title of your project}
 
 - Your title can change over time.
 
@@ -16,9 +16,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Ankkit Prakash: Lead funnyman
+- Benjamin Norton: one sentence about you!
+- Brianna Chernenkoff: one sentence about you!
 
 ## Images
 
