@@ -1,4 +1,4 @@
-# Group 34 - {Short snappy Title of your project}
+# Group 34 - Word Frequency over Time
 
 - Your title can change over time.
 
