@@ -17,7 +17,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 ## Team Members
 
 - Ankkit Prakash: Lead funnyman
-- Benjamin Norton: one sentence about you!
+- Ben Norton: The better Ankkit
 - Brianna Chernenkoff: one sentence about you!
 
 ## Images
