@@ -10,7 +10,7 @@ This folder contains the raw data used in the analysis. The data is not included
 ## Downloading the data
 - OANC: [Click here](https://anc.org/data/oanc/download/) or go to the link above and click on the download button.
 - Google Ngram: go to the link above, and click on the links under English Version 20120701 1-grams to downaload the files we used.
-  - ![Image of the links to click](ngram-download-img.png)
+  - ![Image of the links to click](../../images/ngram-download-img.png)
   - Or, open the developer tools and copy and paste the following script into the console:
 ```js
 let anchors = document.querySelectorAll("a")
