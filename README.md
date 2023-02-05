@@ -16,7 +16,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Team Members
 
-- Ankkit Prakash: Lead funnyman
+- Ankkit Prakash: Ankkit is a second year Computer Science student, minoring in Mathematics. 
 - Ben Norton: The better Ankkit
 - Brianna Chernenkoff: one sentence about you!
 
