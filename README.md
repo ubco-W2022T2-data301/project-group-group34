@@ -8,7 +8,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-Collectively we all have varying interests in using this data set. Although a few recurring themes in working with this specific data set are, seeing how writing styles have collectively changed or stayed the same over a longer period of time, to create an inference model that uses undated texts and produces a specific date that corresponds to when it was originally written, and the possibility of how we can use this data to estimate what year different pieces of work have been published based on word frequencies. 
+Collectively we all have varying interests in using this data set. Although a few recurring themes in working with this specific data set are: seeing how writing styles have collectively changed or stayed the same over a longer period of time, creating an inference model that tries to date undated texts, and exploring the possibility of how we could use this data to estimate what year different pieces of work have been written in based on word frequencies. 
 
 ## Describe your dataset in about 150-200 words
 
@@ -16,9 +16,9 @@ Our data set consists of the 1-grams from the English section in Google Book Ngr
 
 ## Team Members
 
-- Ankkit Prakash: Ankkit is a second year Computer Scinece major, minoring in Mathematics. 
+- Ankkit Prakash: A second year Computer Scinece major and minoring in Mathematics. 
 - Ben Norton: A second year student majoring in Computer Scinece and minoring in Philosophy. 
-- Brianna Chernenkoff: Brianna is a third year Gerneral Science Major, concentrating in Data Science and Psychology, minoring in Philosophy. 
+- Brianna Chernenkoff: A third year Gerneral Science Major concentrating in Data Science and Psychology and minoring in Philosophy. 
 
 ## Images
 
