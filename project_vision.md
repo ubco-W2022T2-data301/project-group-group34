@@ -1,12 +1,13 @@
 # Project Vision
 
-Culture is dynamic, it builds itself on the past and reacts to trends in the present. It manifests itself through music, art, fashion, architecture, and language among other things. Forms of cultural expression, and trends therein, can often be indicative of the time period they existed in. Photographs, snapshots of a place or people at any given moment can unintentionally date themselves; this can be due to the types of clothes that the people in it wear, or the styles of architecture of the buildings in it. 
+Sixty five million years ago, an asteroid with a diameter of at least ten kilometers crashed into the Earth near what is now the Yucatan Peninsula in Mexico. The impact flung tonnes of material into the earth that heated up during reentry, heating the atmosphere and causing a rain of hot material onto the surface. The impact caused dust from the crater to envelop the entirety of the planet, as well as causing widespread powerful earthquakes across the planet.
 
-In this sense, a textual work is not too dissimilar to a photograph. Much like how certain fashions or architectural styles increase or decrease in popularity, words increase or decrease in use. By comparing the frequency of words in a long enough text to a broader dataset of word frequency throughout the years, we hope to be able to reasonably identify the time period in which the text was written. We believe that doing so will grant us a greater understanding and appreciation of the evolution of language.
+This event, known to history as the Chicxulub Event, wiped out three quarters of all life on Earth, marking the end of the dominance of non-avian dinosaurs. An event similar to this can happen again. Asteroid impacts of this magnitude are an existential threat to humanity, and imperative that to be aware of any potential asteroids that might collide with our planet. 
+
+We can do this by looking for Near Earth Asteroids, and tracking their orbits. We can then use this information to predict if they will collide with the Earth, and if possible, redirect the asteroid or prepare for impact. Doing so will save extant species from extinction, including our own. 
 
 # Aims
-We aim to develop a machine learning model that estimates the date of authorship of an input text based on its word frequency, compared against a large dataset of word frequencies and their distribution throughout the years.
-
+Our project aims to analyze known Near Earth Asteroids, and infer data about them such as orbit trajectories, likelihood of impact, and position within the wider solar system. We believe that doing so may yield insight into the location, distribution, and potential risk to Earth of Near Earth Asteroids.
 
 
 ## Contracted Grade
