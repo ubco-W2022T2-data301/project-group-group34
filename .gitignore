@@ -625,5 +625,4 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,visualstudio,python,jupyternotebooks,macos,windows,linux
-/data/raw/google-ngram.nosync/googlebooks-eng-all-1gram-20120701-0
-/data/raw/OANC-GrAF.nosync/
+
