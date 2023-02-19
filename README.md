@@ -28,7 +28,8 @@ Our dataset contains of three files one containing information about the orbits 
 
 ## References
 
-### {Add the reference links here}
+https://cneos.jpl.nasa.gov/ca/
+https://www.kaggle.com/datasets/nasa/asteroid-impacts
 
 
 
