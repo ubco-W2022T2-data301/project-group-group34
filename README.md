@@ -1,4 +1,4 @@
-# Group 34 - Word Frequency over Time
+# Group 34 - Analysis of Near Earth Asteroids
 
 - Your title can change over time.
 
@@ -8,17 +8,17 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-Collectively we all have varying interests in using this data set. Although a few recurring themes in working with this specific data set are: seeing how writing styles have collectively changed or stayed the same over a longer period of time, creating an inference model that tries to date undated texts, and exploring the possibility of how we could use this data to estimate what year different pieces of work have been written in based on word frequencies. 
+Collectively we all have varying interests in using this data set. Some of us want to study the orbits of asteroids, and some of us want to study the damage they might want to cause. However, there exists a consensus among the members of this group that Near Earth Asteroids pose a serious threat to humanity, and that studying them is a possible method to reduce this threat.
 
 ## Describe your dataset in about 150-200 words
 
-Our data set consists of the 1-grams from the English section in Google Book Ngram Corpus and the entire Open american National Corpus. These data collections contain both formal and informal means of communication, such as fiction and non-fiction books, journals, letters and more. The google ngram data set contains individual words, the number of times they appear and the year they appeared in, whereas the OANC data set contains the entire text of the documents with the publication date, however, the data is quite messy, so it will take some work to clean it up.
+Our dataset contains of three files one containing information about the orbits of Near Earth Asteroids, one containing the velocity, diameter, and impact probability of asteroids, and finally one containing close approaches that the asteroids have had to Earth. All the data is collected from NASA's {Insert link here}. 
 
 ## Team Members
 
-- Ankkit Prakash: A second year Computer Scinece major and minoring in Mathematics. 
-- Ben Norton: A second year student majoring in Computer Scinece and minoring in Philosophy. 
-- Brianna Chernenkoff: A third year Gerneral Science Major concentrating in Data Science and Psychology and minoring in Philosophy. 
+- Ankkit Prakash: A second year Computer Science major and minoring in Mathematics. 
+- Ben Norton: A second year student majoring in Computer Science and minoring in Philosophy. 
+- Brianna Chernenkoff: A third year General Science Major concentrating in Data Science and Psychology and minoring in Philosophy. 
 
 ## Images
 
@@ -28,10 +28,8 @@ Our data set consists of the 1-grams from the English section in Google Book Ngr
 
 ## References
 
-1. English section in Google Book Ngram Corpus
-   - https://storage.googleapis.com/books/ngrams/books/datasetsv2.html
-2. Open american National Corpus 
-   - https://anc.org/data/oanc/
+https://cneos.jpl.nasa.gov/ca/
+https://www.kaggle.com/datasets/nasa/asteroid-impacts
 
 
 
