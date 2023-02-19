@@ -1,4 +1,4 @@
-# Group 34 - Word Frequency over Time
+# Group 34 - Near earth and impact asteroid data
 
 - Your title can change over time.
 
@@ -8,11 +8,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-Collectively we all have varying interests in using this data set. Although a few recurring themes in working with this specific data set are: seeing how writing styles have collectively changed or stayed the same over a longer period of time, creating an inference model that tries to date undated texts, and exploring the possibility of how we could use this data to estimate what year different pieces of work have been written in based on word frequencies. 
+    A collective topic of interest for this using this data set is to look how size and shape can effect the earth when it come into contact with out atmosphere. We each have drawn out own reasoning based on a collective goal; for example, Ben will be looking closely at how the sizes and impacts of asteroids can have varying levels for potential damage upon entering earths atmosphere. Whereas, I (Brianna) am interested in looking into the collisons of asteroids that enter the proximitiy of the earth and suns atosphere based on average velocity and size measurements. Lastly Ankkit is looking closely at the relationship between orbits and magnitudes of asteroids used MIOD. 
 
 ## Describe your dataset in about 150-200 words
-
-Our data set consists of the 1-grams from the English section in Google Book Ngram Corpus and the entire Open american National Corpus. These data collections contain both formal and informal means of communication, such as fiction and non-fiction books, journals, letters and more. The google ngram data set contains individual words, the number of times they appear and the year they appeared in, whereas the OANC data set contains the entire text of the documents with the publication date, however, the data is quite messy, so it will take some work to clean it up.
 
 ## Team Members
 
@@ -28,10 +26,9 @@ Our data set consists of the 1-grams from the English section in Google Book Ngr
 
 ## References
 
-1. English section in Google Book Ngram Corpus
-   - https://storage.googleapis.com/books/ngrams/books/datasetsv2.html
-2. Open american National Corpus 
-   - https://anc.org/data/oanc/
+Source 1: Possible Asteroid Impacts with Earth - NASA https://www.kaggle.com/datasets/nasa/asteroid-impacts
+
+Source 2: NEO Earth Close Approaches - NASA https://www.kaggle.com/datasets/nasa/asteroid-impacts
 
 
 
