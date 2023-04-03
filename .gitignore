@@ -148,7 +148,7 @@ target/
 # IPython
 
 # pyenv
-#   For a library or package, you might want to ignore these files since the code is
+#   For a library or package, you might want to ignore these files since the group34_code is
 #   intended to run in multiple environments; otherwise, check them in:
 # .python-version
 
@@ -393,7 +393,7 @@ coverage*.json
 coverage*.xml
 coverage*.info
 
-# Visual Studio code coverage results
+# Visual Studio group34_code coverage results
 *.coverage
 *.coveragexml
 
