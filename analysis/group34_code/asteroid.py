@@ -2,7 +2,6 @@ import math
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.patches import Circle
-import seaborn as sns
 
 EPSILON = 1e-12  # precision for floating point comparisons
 mass_sun = 1.989e30  # kg
@@ -89,7 +88,7 @@ def render_asteroid_trajectory(asteroid):
     plt.grid()
 
     ax.scatter(0, 0, s=200, color='y')
-    plt.annotate('Sun', xy=(0, -30))
+    plt.annotate('Sun', xy=(20, -50))
 
     def draw_planet(planet_position, colour):
         theta, dist = planet_position
@@ -102,7 +101,7 @@ def render_asteroid_trajectory(asteroid):
     eccentricity = asteroid["Orbit Eccentricity"]
     orbit_axis = asteroid["Orbit Axis (AU)"]
     close_approach_data = asteroid["Close-Approach (CA) Date"]
-    print(close_approach_data)
+
     close_approach_date = close_approach_data.split(" ")[0]  # format is "YYYY-MM-DD"
     close_approach_time = close_approach_data.split(" ")[1]  # format is "HH:MM"
     close_approach_year = int(close_approach_date.split("-")[0])
@@ -115,7 +114,7 @@ def render_asteroid_trajectory(asteroid):
                                   close_approach_hour, close_approach_minute)
     time_offset -= 365.25 * 24 * 60 * 60 * 1970
     duration = 365.25 * 24 * 60 * 60
-    precision = 1000
+    precision = 500
     distance_df = pd.DataFrame(columns=['Time', 'Distance'])
     for j in range(precision):
         seconds = j / precision * duration + time_offset
