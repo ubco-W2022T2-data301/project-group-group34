@@ -12,4 +12,4 @@ Our project aims to analyze known Near Earth Asteroids, and infer data about the
 
 ## Contracted Grade
 
-For this project, we agree to contract for a A+
+For this project, we agree to contract for a B

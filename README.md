@@ -18,7 +18,6 @@ Our dataset contains of three files one containing information about the orbits 
 
 - Ankkit Prakash: A second year Computer Science major and minoring in Mathematics. 
 - Ben Norton: A second year student majoring in Computer Science and minoring in Philosophy. 
-- Brianna Chernenkoff: A third year General Science Major concentrating in Data Science and Psychology and minoring in Philosophy. 
 
 ## Images
 
