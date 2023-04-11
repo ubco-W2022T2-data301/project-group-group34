@@ -1,6 +1,4 @@
-# Group 34 - Analysis of Near Earth Asteroids
-
-- Your title can change over time.
+# Group 34 - Analysis of Near Earth Objects
 
 ## Milestones
 
