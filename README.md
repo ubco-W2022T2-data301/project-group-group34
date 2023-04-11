@@ -4,11 +4,12 @@
 
 ## Milestones
 
--  Milestone 1: Form Team and Find Dataset
--  Milestone 2: Load dataset, explain it, and define research questions
--  Milestone 3: Exploratory Data Analysis (EDA)
--  Milestone 4: Visualizations, Analysis, and Pipeline.
--  Milestone 5: Dashboard Presentation
+- [x] Milestone 1: Form Team and Find Dataset
+- [x] Milestone 2: Load dataset, explain it, and define research questions
+- [x] Milestone 3: Exploratory Data Analysis (EDA)
+- [x] Milestone 4: Visualizations, Analysis, and Pipeline.
+- [x] Milestone 5: Dashboard Presentation
+- [x] Milestone 6: Address Feedback and Refine Project
 
 ## Describe your topic/interest in about 150-200 words
 
