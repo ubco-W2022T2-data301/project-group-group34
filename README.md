@@ -31,6 +31,9 @@ Our dataset contains of three files one containing information about the orbits 
 ### Ankkit's Dashboard
 ![ankkit_dashboard.png](images/ankkit_dashboard.png)
 
+## Video
+[![video of analysis](images/thumbnail.png)](https://www.youtube.com/watch?v=gKXMJDOftNgg)
+
 ## References
 
 1. https://cneos.jpl.nasa.gov/ca/
