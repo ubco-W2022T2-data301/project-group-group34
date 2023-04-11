@@ -4,7 +4,11 @@
 
 ## Milestones
 
-Details for Milestone are available on Canvas (left sidebar, Course Project).
+- [x] Milestone 1: 
+- [x] Milestone 2:
+- [x] Milestone 3:
+- [x] Milestone 4:
+- [x] Milestone 5:
 
 ## Describe your topic/interest in about 150-200 words
 
@@ -21,9 +25,11 @@ Our dataset contains of three files one containing information about the orbits 
 
 ## Images
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
+### Ben's Dashboard
+![ben_dashboard.png](images/ben_dashboard.png)
 
-<img src ="images/test.png" width="100px">
+### Ankkit's Dashboard
+![ankkit_dashboard.png](images/ankkit_dashboard.png)
 
 ## References
 
