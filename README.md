@@ -7,7 +7,7 @@
 - [x] Milestone 3: Exploratory Data Analysis (EDA)
 - [x] Milestone 4: Visualizations, Analysis, and Pipeline.
 - [x] Milestone 5: Dashboard Presentation
-- [ ] Milestone 6: Address Feedback and Refine Project
+- [x] Milestone 6: Address Feedback and Refine Project
 
 ## Describe your topic/interest in about 150-200 words
 
