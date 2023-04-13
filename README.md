@@ -9,6 +9,10 @@
 - [x] Milestone 5: Dashboard Presentation
 - [x] Milestone 6: Address Feedback and Refine Project
 
+### Check out our GitHub project, which we used to keep track of tasks
+- [Dashboard](https://github.com/orgs/ubco-W2022T2-data301/projects/1)
+- [Timeline](https://github.com/orgs/ubco-W2022T2-data301/projects/1/insights?period=max)
+
 ## Describe your topic/interest in about 150-200 words
 
 Collectively we all have varying interests in using this data set. Some of us want to study the orbits of asteroids, and some of us want to study the damage they might want to cause. However, there exists a consensus among the members of this group that Near Earth Asteroids pose a serious threat to humanity, and that studying them is a possible method to reduce this threat.
